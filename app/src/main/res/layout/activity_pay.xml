@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.ubox_work15.demo2.PayActivity">
+
+    <EditText
+        android:id="@+id/pay_input_box"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请输入充值金额"
+        />
+    <Button
+        android:id="@+id/start_pay_bnt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="确认充值"
+        />
+    <Button
+        android:id="@+id/cancel_pay_bnt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="取消充值"
+        />
+
+</LinearLayout>
