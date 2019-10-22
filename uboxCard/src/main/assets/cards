@@ -1,0 +1,27 @@
+[
+	{
+		"abbreviation":"zjylsf",
+		"name":"浙江银联闪付",
+		"type":"107"
+	},
+	{
+		"abbreviation":"dxyzf",
+		"name":"电信翼支付",
+		"type":"119"
+	},
+	{
+		"abbreviation":"bjszykt",
+		"name":"北京市政一卡通",
+		"type":"137"
+	},
+	{
+		"abbreviation":"mzt",
+		"name":"绵州一卡通",
+		"type":"138"
+	},
+	{
+		"abbreviation":"amt",
+		"name":"澳门通",
+		"type":"141"
+	}
+]

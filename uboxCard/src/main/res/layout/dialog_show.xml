@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/view_app_type"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="23dp"
+        android:layout_marginTop="24dp"
+        android:text="@string/app_type" />
+
+    <TextView
+        android:id="@+id/e_app_type"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/view_app_type"
+        android:layout_toRightOf="@+id/view_app_type"
+        android:ems="10"
+        android:inputType="none" >
+    </TextView>
+
+    <TextView
+        android:id="@+id/view_app_abr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/view_app_type"
+        android:layout_below="@+id/view_app_type"
+        android:layout_marginTop="14dp"
+        android:text="@string/app_abr" />
+
+    <TextView
+        android:id="@+id/e_app_abr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/view_app_abr"
+        android:layout_alignLeft="@+id/e_app_type"
+        android:ems="10"
+        android:inputType="none" />
+
+    <TextView
+        android:id="@+id/view_app_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/view_app_abr"
+        android:layout_below="@+id/view_app_abr"
+        android:layout_marginTop="14dp"
+        android:text="@string/card_name" />
+
+    <TextView
+        android:id="@+id/e_app_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/view_app_name"
+        android:layout_alignLeft="@+id/e_app_abr"
+        android:ems="10" 
+        android:inputType="none"/>
+
+</RelativeLayout>

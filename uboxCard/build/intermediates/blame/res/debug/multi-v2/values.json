@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\UboxCard-hkkj\\uboxCard\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\UboxCard-hkkj\\uboxCard\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "D:\\UboxCard-hkkj\\uboxCard\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "15,22",
+                        "startColumns": "4,4",
+                        "startOffsets": "672,963",
+                        "endLines": "21,24",
+                        "endColumns": "12,12",
+                        "endOffsets": "958,1118"
+                    }
+                },
+                {
+                    "source": "D:\\UboxCard-hkkj\\uboxCard\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "5,10,3,11,7,9,8,12,13,4,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "159,341,58,383,214,299,261,426,470,105,520",
+                        "endColumns": "52,41,45,42,46,41,37,43,49,52,44",
+                        "endOffsets": "207,378,99,421,256,336,294,465,515,153,560"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,222,264,310,353,400,442,480,524,574,627",
+                        "endColumns": "52,41,45,42,46,41,37,43,49,52,44",
+                        "endOffsets": "217,259,305,348,395,437,475,519,569,622,667"
+                    }
+                }
+            ]
+        }
+    ]
+}

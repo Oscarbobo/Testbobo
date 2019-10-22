@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UboxCard</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="assets_cards">cards</string>
+    <string name="btn_OK">确定</string>
+    <string name="btn_Cancel">取消</string>
+    <string name="app_abr">项目简称：</string>
+    <string name="app_type">项目编号：</string>
+    <string name="card_name">项目名称：</string>
+    <string name="dialog_title">项目配置确认信息</string>
+    <string name="v_error">程序错误，请重试</string>
+    
+</resources>
